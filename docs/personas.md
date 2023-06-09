@@ -70,3 +70,7 @@ As personas são utilizadas para ter uma representatividade de qual o público a
 | Relacionamentos | Mora com seu marido e tem um filho |
 | Expectativas | Nenhuma relacionada ao contexto |
 | Objetivos | Nenhum relacionado ao contexto |
+
+## Bibliografia
+
+BARBOSA S. D. J.; SILVA B. S. Interação Humano-Computador ed. Elsevier, 2010.
