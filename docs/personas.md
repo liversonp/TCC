@@ -32,7 +32,7 @@ As personas são utilizadas para ter uma representatividade de qual o público a
 
 ## Rafael José
 
-![](../assets/persona3.jpeg)
+![](../assets/persona3.png)
 | Status          | Persona Primária |
 | --------------- | ---------------- |
 | Idade           | 24 anos |
