@@ -61,7 +61,7 @@ As personas são utilizadas para ter uma representatividade de qual o público a
 
 ![](../assets/antipersona.png)
 
-| Status          | Persona Primária |
+| Status          | Anti Persona |
 | --------------- | ---------------- |
 | Idade           | 30 anos |
 | Profissão       | Advogada |
